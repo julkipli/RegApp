@@ -1,0 +1,13 @@
+
+	 for the bonus points
+	  2.4)to record course scores
+	 	 - add new field score in the join table student_score
+	   	 - we may need to create separate entity for student_score table
+	  
+	 
+
+	  2.5)
+	 
+	   --check its a valid course or it is available
+	  	--find out all the students who don't have matching records in student_course table 
+	   	of given course name
