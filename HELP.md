@@ -1,7 +1,0 @@
-# Student Course Registration 
-
-
-
-
-
-
